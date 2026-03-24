@@ -15,11 +15,6 @@ import (
 	"time"
 )
 
-// "https://ghfast.top" "https://git.yylx.win/" "https://gh-proxy.com" "https://ghfile.geekertao.top"
-// "https://gh-proxy.net" "https://j.1win.ggff.net" "https://ghm.078465.xyz" "https://gitproxy.127731.xyz"
-// "https://jiashu.1win.eu.org" "https://github.tbedu.top"
-// 在这些链接后加上原Github链接文件即可访问
-
 const (
 	configName       = ".ghdownloader.json"
 	defaultUserAgent = "GithubDownloader/1.0"
